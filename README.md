@@ -1,4 +1,4 @@
-# Oikos Swap Frontend
+# Metronotes Swap Frontend
 
 This an an open source interface for Oikos Swap - a protocol for decentralized exchange of Tron tokens - a port of Uniswap for Tron.
 
